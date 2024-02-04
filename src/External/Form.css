@@ -1,0 +1,35 @@
+label {
+  display: inline-block;
+  margin: 10px;
+}
+
+input {
+  border: 1px solid rgb(191, 191, 191);
+  display: block;
+  font-size: 16px;
+  padding: 7px;
+  width: 98.5%;
+}
+
+input:focus {
+  outline: none;
+}
+
+.form-control {
+  font-size: 20px;
+  background-color: rgb(255, 251, 237);
+}
+
+.btn {
+  background-color: rgb(142, 242, 255);
+  color: rgb(26, 26, 26);
+  font-family: "Kanit";
+  font-size: 25px;
+  width: 100%;
+  border: 0cap;
+  padding: "7px";
+}
+
+.font {
+  font-family: "Kanit";
+}
